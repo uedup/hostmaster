@@ -1,1 +1,2 @@
 127.0.0.1 loan.jd.com
+127.0.0.1 abc.jd.com
